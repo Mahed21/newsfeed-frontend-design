@@ -1,0 +1,44 @@
+.parent,
+.like {
+  background-color: #e9ebee;
+}
+.story-card {
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px 20px;
+}
+.btn {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+.follow-btn {
+  background-color: #db2025;
+  color: white;
+  border: none;
+}
+input {
+  border-radius: 15px;
+  border: none;
+  background-color: #e9ebee;
+  height: 40px;
+}
+.input-icons svg {
+  position: absolute;
+  width: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.checkbox {
+  background-color: #e9ebee;
+}
+.checkbox p {
+  line-height: normal;
+}
+.comment-div {
+  width: 50%;
+  background-color: #e9ebee;
+}
+.underline {
+  border-bottom: 1px solid black;
+}
